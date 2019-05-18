@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+  line-height: 2;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 90px;
+  color: #66BFBF;
+  line-height: 1.5;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: coral;
+}
+
+hr {
+  border: dotted #EAF6F6;
+  border-bottom: none;
+  width: 30%;
+  margin: 100px auto;
+}
+
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+#heading1 {
+  padding-top: 100px;
+}
+
+#paragrah1 {
+  margin: 0 auto 0 auto;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.contact-p {
+  width: 30%;
+  margin: 30px auto;
+}
+
+.btn {
+  background: #40514E;
+  color: #fff;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5%;
+}
+ .btn:hover {
+   background:#f4f4f4;
+   color: #333;
+ }
+
+ .footer-link  {
+   margin: 20px 30px;
+   font-size: 1.6rem;
+ }
